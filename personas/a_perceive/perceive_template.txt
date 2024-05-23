@@ -1,0 +1,2 @@
+Things within my reach.
+!<INPUT 0>!, !<INPUT 1>!, !<INPUT 2>!, !<INPUT 3>!, !<INPUT 4>!, !<INPUT 5>!, !<INPUT 6>!, !<INPUT 7>!, !<INPUT 8>!, !<INPUT 9>!, !<INPUT 10>!, !<INPUT 11>!, !<INPUT 12>!, !<INPUT 13>!, !<INPUT 14>!, !<INPUT 15>!, !<INPUT 16>!, !<INPUT 17>!, !<INPUT 18>!, !<INPUT 19>!, !<INPUT 20>!, !<INPUT 21>!, !<INPUT 22>!, !<INPUT 23>!, !<INPUT 24>!

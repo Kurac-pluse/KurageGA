@@ -1,0 +1,5 @@
+!<INPUT 0>! !<INPUT 1>!
+!<INPUT 2>! !<INPUT 3>!
+!<INPUT 4>! !<INPUT 5>!
+!<INPUT 6>! !<INPUT 7>!
+!<INPUT 8>! !<INPUT 9>!
