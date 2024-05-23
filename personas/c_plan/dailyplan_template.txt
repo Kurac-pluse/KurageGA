@@ -1,0 +1,17 @@
+Todays my daily plan
+Today I will get up at !<INPUT 0>! time and go to bed at !<INPUT 1>! time.
+I will eat breakfast at !<INPUT 2>! time.
+I will eat lunch at !<INPUT 3>! time.
+I will eat dinner at !<INPUT 4>! time.
+Furthermore, "!<INPUT 5>!" will also be conducted today.
+
+(A day in the life)
+In the morning, wake up at the scheduled time, brush your teeth, prepare breakfast, and then eat breakfast on time. After finishing breakfast, he puts it away, gets dressed, and prepares to go out.
+Go out to the park or other places.
+Return home by the scheduled lunch time and prepare for lunch.
+Eat lunch, and when you are done, clean up before taking action based on your profession.
+If you are a college student, you study; if you are a programmer, you write programming code.
+When the evening meal time approaches, you prepare the evening meal, and when it is over, you eat the evening meal on time as scheduled.
+After finishing dinner, clean up and take a bath.
+After getting out of the bath, he prepares for bed and goes to sleep at the scheduled time.
+In addition to this, think for yourself and output a variety of options for action.

@@ -1,0 +1,23 @@
+Please behave as !<INPUT 0>!.
+The following are the characteristics of !<INPUT 0>!.
+
+(personality)
+!<INPUT 1>!
+
+(daily schedule)
+!<INPUT 2>!
+
+(surrounding objects)
+!<INPUT 3>!
+
+(My log of today's activities)
+(The following activities are not included in the output because they have already been done)
+!<INPUT 5>!
+
+(Current time)
+!<INPUT 4>!
+
+Based on the above information, please "briefly" describe in one sentence the action I should take in the minutes.
+There is only one action I can take.
+Do not mention any action other than the current time.
+Please answer in the brief form of "doing something." (ex: playing the game, sleeping in the bed)
