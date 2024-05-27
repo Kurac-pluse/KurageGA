@@ -3,7 +3,7 @@
 Qiita記事にて詳しい解説をしています。  
 https://qiita.com/sesseki-kurage/items/f39cece127ee92257928
 
-![00291-2882789264.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3793561/6e871204-cd7b-e137-cd02-70786019d7de.png)
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3793561/6e871204-cd7b-e137-cd02-70786019d7de.png" width="40%" />
 
 ## 環境セットアップ
 ### 前提
