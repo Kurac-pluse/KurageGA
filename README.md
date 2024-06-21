@@ -7,7 +7,7 @@ https://qiita.com/sesseki-kurage/items/f39cece127ee92257928
 
 ## 環境セットアップ
 ### 前提
-python, anaconda
+python, Anaconda
 
 ### 手順
 仮想環境を作成＆有効化、clone、準備
